@@ -1,0 +1,18 @@
+{
+  "name": "generator-phosphor-editor-template",
+  "version": "0.1.0",
+  "description": "Generates a editor application with phospohr.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Mario Rosenstengel",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.1",
+    "yo": "^2.0.0"
+  }
+}
