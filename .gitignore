@@ -1,2 +1,6 @@
 .vscode
 node_modules
+app
+
+package.json
+README.md
